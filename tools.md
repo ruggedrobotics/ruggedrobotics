@@ -3,8 +3,6 @@ layout: page
 title: Tools
 ---
 
-# Embedded Tools
-
 Current (as of May 2017)
 - NVIDIA Jetson TX1
 - Twin NVIDIA Tesla K40's for AI-dev projects
