@@ -5,8 +5,6 @@ title: Tools
 
 # Embedded Tools
 
-Below is a list that I have developed with and/or still using.
-
 Current (as of May 2017)
 - NVIDIA Jetson TX1
 - Twin NVIDIA Tesla K40's for AI-dev projects
